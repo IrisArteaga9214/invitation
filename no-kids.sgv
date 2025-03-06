@@ -1,0 +1,19 @@
+<svg width="100" height="100" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Círculo de prohibición -->
+  <circle cx="12" cy="12" r="10" stroke="red" stroke-width="2" fill="none"/>
+  <line x1="4" y1="4" x2="20" y2="20" stroke="red" stroke-width="2"/>
+  
+  <!-- Cabeza del bebé -->
+  <circle cx="12" cy="8" r="3" fill="black"/>
+  
+  <!-- Cuerpo del bebé -->
+  <path d="M9 10 L15 10 L18 15 L6 15 Z" fill="black"/>
+  
+  <!-- Piernas del bebé -->
+  <line x1="9" y1="15" x2="8" y2="19" stroke="black" stroke-width="2"/>
+  <line x1="15" y1="15" x2="16" y2="19" stroke="black" stroke-width="2"/>
+  
+  <!-- Brazos del bebé -->
+  <line x1="9" y1="12" x2="7" y2="14" stroke="black" stroke-width="2"/>
+  <line x1="15" y1="12" x2="17" y2="14" stroke="black" stroke-width="2"/>
+</svg>
